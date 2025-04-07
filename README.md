@@ -7,6 +7,9 @@ cd Build-Bot
 ```
 Create .env
 ```bash
+nano .env
+```
+```bash
 WALLET_MNEMONIC="your testnet mnemonic here"
 PRIVATE_KEY="your testnet private key here"
 ```
