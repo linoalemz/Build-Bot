@@ -28,7 +28,6 @@ Check blockchain explorers (e.g., Union Testnet explorer) for tx hashes.
 Troubleshooting:
 RPC Errors: Verify RPC endpoints are live.
 Insufficient Funds: Ensure your wallet has test tokens.
-Chain ID: cosmpy fetches this, but if it fails, specify manually in client.chain_id.
 
 
 
