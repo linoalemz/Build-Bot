@@ -13,6 +13,14 @@ nano .env
 WALLET_MNEMONIC="your testnet mnemonic here"
 PRIVATE_KEY="your testnet private key here"
 ```
+Create a Virtual Environment
+```bash
+python3 -m venv venv
+```
+Activate the virtual environment
+```bash
+source venv/bin/activate
+```
 Install Dependencies
 ```bash
 pip install -r requirements.txt
